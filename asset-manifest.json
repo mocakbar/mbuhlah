@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mbuhlah/static/css/main.5f361e03.chunk.css",
+    "main.js": "/mbuhlah/static/js/main.f6c1a11c.chunk.js",
+    "main.js.map": "/mbuhlah/static/js/main.f6c1a11c.chunk.js.map",
+    "runtime-main.js": "/mbuhlah/static/js/runtime-main.d64fb604.js",
+    "runtime-main.js.map": "/mbuhlah/static/js/runtime-main.d64fb604.js.map",
+    "static/js/2.3538a92f.chunk.js": "/mbuhlah/static/js/2.3538a92f.chunk.js",
+    "static/js/2.3538a92f.chunk.js.map": "/mbuhlah/static/js/2.3538a92f.chunk.js.map",
+    "index.html": "/mbuhlah/index.html",
+    "precache-manifest.0c189bb6c383fd0fbcedd34dd84b19a3.js": "/mbuhlah/precache-manifest.0c189bb6c383fd0fbcedd34dd84b19a3.js",
+    "service-worker.js": "/mbuhlah/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/mbuhlah/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.3538a92f.chunk.js.LICENSE.txt": "/mbuhlah/static/js/2.3538a92f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/mbuhlah/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d64fb604.js",
+    "static/js/2.3538a92f.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.f6c1a11c.chunk.js"
+  ]
+}
